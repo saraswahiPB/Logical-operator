@@ -1,0 +1,18 @@
+class Launch
+{
+    public static void main(String[] args)
+    {
+        int a=10;
+        int b=5;
+
+        
+        if(!(a>b))
+        {
+            System.out.println("Condition is satisfied");
+        }
+        else
+        {
+           System.out.println("Condition is not satisfied"); 
+        }
+    }
+}
